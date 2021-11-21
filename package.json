@@ -1,0 +1,22 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "node.js readme-generator",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arlenwh-code/readme-creator.git"
+  },
+  "author": "Arlen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arlenwh-code/readme-creator/issues"
+  },
+  "homepage": "https://github.com/arlenwh-code/readme-creator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
